@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import ru.clevertec.loggingstarter.aspect.LoggingAspect;
 
 /**
- * Auto-configuration class for logging.
+ * Configuration class for logging.
  * Configures and initializes logging based on conditions.
  *
  * @author Sergey Leshkevich
