@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.clevertec.loggingstarter.annotation"},{"l":"ru.clevertec.loggingstarter.aspect"},{"l":"ru.clevertec.loggingstarter.config"}];updateSearchResults();
